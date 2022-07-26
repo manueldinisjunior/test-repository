@@ -1,2 +1,4 @@
 # test-repository
-This is a test description
+My very first repo
+
+I'm the coolest web developer on earth
